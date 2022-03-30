@@ -2,7 +2,7 @@ server:
   port: 8085
 spring:
   application:
-    name: navos-student-cofig
+    name: navos-student-cofig222
   cloud:
     nacos:
       discovery:
